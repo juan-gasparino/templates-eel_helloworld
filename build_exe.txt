@@ -1,0 +1,4 @@
+!important (use only when u change from project to project) use this first to reload cache compile files
+python -m eel main.py ../Frontend/dist --noconsole --onefile
+
+pyinstaller.exe --clean --windowed -F --icon=icon/icon.ico --onefile main.py
