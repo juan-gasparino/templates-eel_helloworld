@@ -28,5 +28,4 @@ Now go back to the cmd console and run "npm run build" this will compile all the
 
 dist folder.
 
-Now you have to recompile the backend part in order to update the whole app. Go to the backend folder and run: "python sineSignal.py"
-"# jnx86bcn-destktopAppEll2" 
+Now you have to recompile the backend part in order to update the whole app. Go to the backend folder and run: "python sineSignal.py" 
